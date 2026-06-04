@@ -6,15 +6,11 @@ This project opens a small window and shows a grid of cells. Each cell can be ei
 
 ## Preview
 
-Put your GIF or image here:
 
-```md
-![Game of Life Demo](game-of-life.gif)
-```
 
 Example:
 
-![Game of Life Demo](assets/demo.gif)
+![Game of Life Demo](game-of-lifee.gif)
 
 ## How It Works
 
