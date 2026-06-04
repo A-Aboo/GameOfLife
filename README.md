@@ -54,7 +54,7 @@ This project uses `tkinter`, which is included with most Python installations.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/GameOfLife.git
+git clone https://github.com/A-Aboo/GameOfLife.git
 ```
 
 Go into the project folder:

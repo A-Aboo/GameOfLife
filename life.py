@@ -106,4 +106,5 @@ for i in range(ROWS):
 
 update()
 
+
 window.mainloop()
